@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fullstackvietnam/blank-source.git"
+    "url": "git+https://github.com/netavietnam/nodejs-gulp.git"
   },
   "author": "KHOAI to",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/fullstackvietnam/blank-source/issues"
+    "url": "https://github.com/netavietnam/nodejs-gulp/issues"
   },
-  "homepage": "https://github.com/fullstackvietnam/blank-source#readme",
+  "homepage": "https://github.com/netavietnam/nodejs-gulp#readme",
   "dependencies": {
     "gulp-pug": "^4.0.1",
     "gulp-sass": "^4.0.1",
