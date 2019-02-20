@@ -1,9 +1,13 @@
-	
-$nguyenmausac: #456
-	
-.nguyen 
-	color: $nguyenmausac
-	background: $nguyenmausac
-	.abc 
-		border: 1px solid $nguyenmausac
-		color: darken($nguyenmausac,20%)
+=dungchung($mausac: #000, $doday: 500)
+	text-transform: uppercase
+	font-weight: $doday
+	color: $mausac
+
+.title
+	color: red
+.menu
+	li
+		+dungchung(blue, bold)
+.hehe
+	li
+		+dungchung(yellow, 100)
